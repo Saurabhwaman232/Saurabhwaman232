@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hospital appointment and data management system](https://github.com/Saurabhwaman232/Myprojec)
 
-- 🌱 I’m currently learning **SpringBoot,React**
+- 🌱 I’m currently learning **SpringBoot,PHP,WordPress,React**
 
 - 📫 How to reach me **Saurabhwaman232@gmail.com**
 
